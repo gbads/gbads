@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbads or Gabbie in the real world
 - 👀 I’m interested in video games, anime, and good food.
-- 🌱 I’m currently learning front-end web development.
+- 🌱 I’m an ex-marketer turned front-end web developer.
 - 📫 You can find me on LinkedIn too!
 
 <!---
